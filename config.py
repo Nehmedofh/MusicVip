@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH", "4e246bace68111a0d82fa2ce96e0e5e3")
 BOT_TOKEN = getenv("BOT_TOKEN", "6981145147:AAHdUgH5p3_KHJJ9ClWF7u-WCDpJix5O8G0")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://nahmedofh:<password>@cluster0.ixptgtm.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://nahmedofh:ilkin123@cluster0.ixptgtm.mongodb.net/?retryWrites=true&w=majority")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 5400))
 
@@ -41,8 +41,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None)  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/FerooResmi")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/GunelSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RoBotumAz")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Sohbet_Baki")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
