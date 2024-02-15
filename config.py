@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", "29341839"))
 API_HASH = getenv("API_HASH", "557d3180ae884c8d59a28c1ed9fe4004")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "6986824034:AAHysfxkJP_D7nzqpkOv7DRZPcexAJGXZMI")
+BOT_TOKEN = getenv("BOT_TOKEN", "6943652405:AAEFaceYnL5BG9NbJugZpFd1ja9OEteLQpE")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://public:abishnoimf@cluster0.rqk6ihd.mongodb.net/?retryWrites=true&w=majority")
@@ -25,7 +25,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOGGER_ID = int(getenv("LOGGER_ID", "-1001952936217"))
 
 # Get this value from @Hot_Girl_Robot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "818167644"))
+OWNER_ID = int(getenv("OWNER_ID", "6951022833"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -41,8 +41,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None)  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/artemidasohbet")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/N1burcler")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/GenclikChat")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/RoBotumAz")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
