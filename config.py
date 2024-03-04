@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", "29341839"))
 API_HASH = getenv("API_HASH", "557d3180ae884c8d59a28c1ed9fe4004")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "6943652405:AAEFaceYnL5BG9NbJugZpFd1ja9OEteLQpE")
+BOT_TOKEN = getenv("BOT_TOKEN", "7148165514:AAGsqZnrX6XpTCQvOuI7koRg4FEs8scdPqs")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://public:abishnoimf@cluster0.rqk6ihd.mongodb.net/?retryWrites=true&w=majority")
@@ -86,21 +86,21 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/ea44c574af4cb1a08cfb6.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/f5ab358fef9afc784b463.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/ea44c574af4cb1a08cfb6.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/f5ab358fef9afc784b463.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/ea44c574af4cb1a08cfb6.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/ea44c574af4cb1a08cfb6.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/ea44c574af4cb1a08cfb6.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/ea44c574af4cb1a08cfb6.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/ea44c574af4cb1a08cfb6.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/ea44c574af4cb1a08cfb6.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/ea44c574af4cb1a08cfb6.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/ea44c574af4cb1a08cfb6.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/ea44c574af4cb1a08cfb6.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/ea44c574af4cb1a08cfb6.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/f5ab358fef9afc784b463.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/f5ab358fef9afc784b463.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/f5ab358fef9afc784b463.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/f5ab358fef9afc784b463.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/f5ab358fef9afc784b463.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/f5ab358fef9afc784b463.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/f5ab358fef9afc784b463.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/f5ab358fef9afc784b463.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/f5ab358fef9afc784b463.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/f5ab358fef9afc784b463.jpg"
 
 
 def time_to_seconds(time):
