@@ -181,11 +181,16 @@ stream_2 : "<b>🔻 Yayım növü:</b> Canlı yayım [URL]\n<b>👤 Tələb:</b>
 CLOSE_BUTTON  : "🗑️ Sil"
 BACK_BUTTON : "🔙 Geri"
 
+
 S_B_1 : "➕ ǫʀᴜᴘᴀ əʟᴀᴠə ᴇᴛ ➕"
-S_B_2 : "Secret Club 🇦🇿"
+S_B_2 : "Secret Chat 🇦🇿"
 S_B_3 : "➕ ǫʀᴜᴘᴀ əʟᴀᴠə ᴇᴛ ➕"
 S_B_4 : "Əmrlər 📚"
-S_B_5 : "Kurucu 👨‍💼"
+S_B_5 : "Sahib 👨🏻‍💻"
+S_B_6 : "Rəsmi Kanal 🔍"
+S_B_7 : "Oyun Botu 🎮"
+S_B_8 : "🔻 YouTube"
+S_B_9 : "Rəsmi Kanal 🔍"
 
 
 H_B_1 : "Admin"
