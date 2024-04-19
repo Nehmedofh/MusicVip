@@ -7,11 +7,11 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID", "11480225"))
-API_HASH = getenv("API_HASH", "4e246bace68111a0d82fa2ce96e0e5e3")
+API_ID = int(getenv("API_ID", "29341839"))
+API_HASH = getenv("API_HASH", "557d3180ae884c8d59a28c1ed9fe4004")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "7187507488:AAFLNq9CT1aPNNWgaTJz2jE2r64HZHY6eSY")
+BOT_TOKEN = getenv("BOT_TOKEN", "7149640818:AAGd-cDp7qe_EXB3_1oj6ucH80ReVxZUss4")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://fridabisov26:feridabusov2@cluster0.rrmqdo9.mongodb.net/?retryWrites=true&w=majority")
@@ -22,10 +22,10 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "5400")
 )
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002096523173"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002082670148"))
 
 # Get this value from @Hot_Girl_Robot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "6671958102"))
+OWNER_ID = int(getenv("OWNER_ID", "6985227363"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
