@@ -28,7 +28,7 @@ def queue_markup(
                 text="Kurucu 👨‍💻", url=f"tg://openmessage?user_id={OWNER_ID}",
             ),
             InlineKeyboardButton(
-                text="Rəsmi Kanal 🌹", url=SUPPORT_CHAT,
+                text="Rəsmi Kanal 🧸", url=SUPPORT_CHAT,
             ),
         ],
     ]
@@ -54,7 +54,7 @@ def queue_markup(
                 text="Kurucu 👨‍💻", url=f"tg://openmessage?user_id={OWNER_ID}",
             ),
             InlineKeyboardButton(
-                text="Rəsmi Kanal 🌹", url=SUPPORT_CHAT,
+                text="Rəsmi Kanal 🧸", url=SUPPORT_CHAT,
             ),
         ],
     ]
@@ -80,7 +80,7 @@ def queue_back_markup(_, CPLAY):
                 text="Kurucu 👨‍💻", url=f"tg://openmessage?user_id={OWNER_ID}",
             ),
             InlineKeyboardButton(
-                text="Rəsmi Kanal", url=SUPPORT_CHAT,
+                text="Rəsmi Kanal 🧸", url=SUPPORT_CHAT,
             ),
         ],
         ]
@@ -101,7 +101,7 @@ def aq_markup(_, chat_id):
                 text="Kurucu 👨‍💻", url=f"tg://openmessage?user_id={OWNER_ID}",
             ),
             InlineKeyboardButton(
-                text="Rəsmi Kanal 🌹", url=SUPPORT_CHAT,
+                text="Rəsmi Kanal 🧸", url=SUPPORT_CHAT,
             ),
         ],
     ]
